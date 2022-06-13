@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser heroku_example.ipynb
+web: voila --port=$PORT --no-browser app.ipynb
