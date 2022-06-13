@@ -1,1 +1,1 @@
-worker: voila --port=$PORT --no-browser app.ipynb
+web: voila --port=$PORT --no-browser app.ipynb
